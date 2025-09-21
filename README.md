@@ -29,7 +29,7 @@ This project focuses on analyzing employee attrition patterns using machine lear
 
 ### Web Interface:
 - **Vercel** - Deployment platform for web interface
-- Custom GUI for model interaction
+- Custom GUI for model interaction using Streamlit
 
 ## Dataset
 
